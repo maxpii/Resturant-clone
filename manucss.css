@@ -1,5 +1,18 @@
-#nameandtime {
-    font-size: 15px;
-    display: inline;
-    float: left;
+.titlebar{
+    background-color:#da3327;
+    color:white;
+    height:400px;
 }
+
+#address {
+    display:inline;
+    position:absolute;
+    left:1450px;
+}
+
+
+#nameandtime {
+    display:inline;
+}
+
+
