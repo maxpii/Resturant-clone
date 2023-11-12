@@ -1,7 +1,7 @@
 .titlebar{
     background-color:#da3327;
     color:white;
-    height:400px;
+    height:600px;
 }
 
 #address {
@@ -15,4 +15,10 @@
     display:inline;
 }
 
-
+#pizza {
+    position:absolute;
+    top:60px;
+    width: 1300px;
+    height: 550px;
+    right: 250px;
+}
