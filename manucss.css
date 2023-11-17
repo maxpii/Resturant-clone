@@ -2,6 +2,7 @@
     background-color:#da3327;
     color:white;
     height:600px;
+    position:relative;
 }
 
 #address {
@@ -19,6 +20,21 @@
     position:absolute;
     top:60px;
     width: 1300px;
-    height: 550px;
+    height: 525px;
     right: 250px;
+    filter:brightness(50%);
+}
+
+#main-title {
+
+    position: absolute;
+    left:450px;
+    font-size: 100px;
+    color: white;
+
+}
+#logo {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
 }
