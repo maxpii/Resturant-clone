@@ -8,13 +8,15 @@
 #address {
     display:inline;
     position:absolute;
-    left:1420px;
+    left:1380px;
+    font-family:cursive;
 }
 
 
 #nameandtime {
     display:inline;
-    padding-left:20px
+    padding-left:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #pizza {
@@ -40,7 +42,7 @@
 }
 
 #deals {
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
 }
 #option1 {
@@ -50,6 +52,21 @@
     width: 400px;
     border:1px solid rgb(95, 94, 94);
     padding-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-block;
+    position: absolute;
+    left: 500px;
+}
+
+#option2{
+    box-sizing: border-box;
+    padding-top: 10px;
+    height: 150px;
+    width: 400px;
+    border:1px solid rgb(95, 94, 94);
+    padding-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+    display: inline-block;
 }
 
 #sale1 {
