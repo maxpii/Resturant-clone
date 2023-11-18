@@ -8,12 +8,13 @@
 #address {
     display:inline;
     position:absolute;
-    left:1450px;
+    left:1420px;
 }
 
 
 #nameandtime {
     display:inline;
+    padding-left:20px
 }
 
 #pizza {
@@ -22,7 +23,7 @@
     width: 1300px;
     height: 525px;
     right: 250px;
-    filter:brightness(50%);
+    filter:brightness(85%);
 }
 
 #main-title {
@@ -31,10 +32,33 @@
     left:450px;
     font-size: 100px;
     color: white;
-
 }
 #logo {
     width: 100px;
     height: 100px;
     background-color: transparent;
 }
+
+#deals {
+
+    font-size: 50px;
+}
+#option1 {
+    box-sizing: border-box;
+    padding-top: 10px;
+    height: 150px;
+    width: 400px;
+    border:1px solid rgb(95, 94, 94);
+    padding-left: 10px;
+}
+
+#sale1 {
+    padding-top: 60px;
+    padding-left: 10px;
+}
+#special {
+    display:inline-flex;
+    background-color: #fdc831;
+}
+
+
